@@ -37,7 +37,7 @@ function App() {
           path="/"
           element={
             <main>
-              {/* <Hero />
+              <Hero />
               <FindAndBuy />
               <TopPicks />
               <AsSeenOn />
@@ -47,9 +47,9 @@ function App() {
               <ShowSection title="#RHOBH Season 14 Reunion Looks" items={rhobhReunion} />
               <ShowSection title="#SummerHouse S9E5" items={summerHouse} />
               <ShowSection title="#RHOA S16E4" items={rhoa} />
-              <More /> */}
+              <More />
 
-<Product />
+
             </main>
           }
         />
